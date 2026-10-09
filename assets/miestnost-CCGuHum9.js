@@ -1,0 +1,1 @@
+var e=`/assets/miestnost-DCXzS1XY.jpg`;export{e as t};

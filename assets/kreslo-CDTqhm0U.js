@@ -1,0 +1,1 @@
+var e=`/assets/kreslo-CS8M28hM.jpg`;export{e as t};
